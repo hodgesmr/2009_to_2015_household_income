@@ -1,4 +1,4 @@
-# County Level 2016 Results and Household Income
+# County Level 2009 - 2015 Household Income and 2016 Results 
 
 ![map](https://raw.githubusercontent.com/hodgesmr/2016_counties/master/img/map_small.png)
 
