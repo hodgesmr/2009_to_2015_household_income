@@ -73,7 +73,6 @@
         <script src="https://d3js.org/topojson.v1.min.js"></script>
         <script src="https://d3js.org/queue.v1.min.js"></script>
 
-        <h4>This is an interactive map that shows 2009 - 2015 county level median household income growth. Counties in green saw double-digit growth. You can optionally filter to counties won by either Trump or Clinton.</h4>
 
         <form>
           <input type="radio" name="level" val="all" checked="checked">All </input><br />
@@ -81,6 +80,9 @@
           <input type="radio" name="level" val="clinton">Clinton Won </input>
         </form>
 
+        <div id='description' style="width:80%;">
+            <h4>This is an interactive map that shows 2009 - 2015 county level median household income growth. Counties in green saw double-digit growth. You can optionally filter to counties won by either Trump or Clinton.</h4>
+        </div>
 
         <div class="map-target"></div>
 
